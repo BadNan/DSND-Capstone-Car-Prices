@@ -4,10 +4,10 @@
 A machine learning pipeline is built that predicts the price of used cars using historical data and several features. The pipeline loads and cleans data, trains a model, tunes the model and evaluates its performance. 
 
 ## Libraries used:
-pandas==2.0.0
-numpy==1.24.2
-matplotlib==3.7.1
-seaborn==0.12.2
+pandas==2.0.0 /
+numpy==1.24.2 / 
+matplotlib==3.7.1 / 
+seaborn==0.12.2 / 
 sklearn==1.2.2
 
 ## Files in Repo:
